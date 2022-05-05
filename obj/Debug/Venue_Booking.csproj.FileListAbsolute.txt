@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Venue_Booking\bin\Debug\Venue_Booking.exe.config
+C:\Users\dell\source\repos\Venue_Booking\bin\Debug\Venue_Booking.exe
+C:\Users\dell\source\repos\Venue_Booking\bin\Debug\Venue_Booking.pdb
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.VenuBooking.resources
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.Properties.Resources.resources
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.exe
+C:\Users\dell\source\repos\Venue_Booking\obj\Debug\Venue_Booking.pdb
