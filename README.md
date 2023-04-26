@@ -9,30 +9,28 @@ Overall, this project showcases the successful implementation of various advance
 
 ## Installation and Run  
 
-> Clone the repository follow the following step 
-```bash
-git clone https://github.com/chirag4242/Venue-Booking.git
+> Clone the repository follow the following step
 
-cd Venue-Booking 
+```bash
+git clone https://github.com/chirag4242/AgileDashboard.git
+
+cd AgileDashboard 
 ```
 
-> To run the application cd into `Venue-Booking/bin/Release/Venue-Booking/bin/Release/` 
+> set up the Firebase credentials
+> Use Android studio to run the application with emulator
 
-> run the excutable file called `Venue_Booking.exe`
 ## Demo Video
 
-[![Youtube video](https://img.youtube.com/vi/rbSO-Vqnaug/0.jpg)](https://www.youtube.com/watch?v=rbSO-Vqnaug)
+[![Youtube video](https://img.youtube.com/vi/w3HIkda2mVM/0.jpg)](https://www.youtube.com/watch?v=w3HIkda2mVM)
 
-[![Youtube link](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=rbSO-Vqnaug)
+[![Youtube link](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=w3HIkda2mVM)
 
 ## Author
 
-[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
+[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/)
 
 [![@chirag4242](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/chirag4242)
 
 > [Portfolio](https://cio-app.herokuapp.com/)
-
 > [Projects site](https://sites.google.com/view/chiragpatil/home)
-
-
