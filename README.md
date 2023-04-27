@@ -33,10 +33,9 @@ cd Venue-Booking
 ## Usage
 Upon opening the application, users are presented with a user-friendly interface that allows them to manage reservations efficiently. The application provides various features for adding, updating, canceling, and wait-listing reservations, making it easier for users to manage their reservations.
 
-## Author
+## Author and Social
 
-[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
-[![@chirag4242](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/chirag4242)
-
-> [Portfolio](https://cio-app.herokuapp.com/) |
-> [Projects site](https://sites.google.com/view/chiragpatil/home)
+[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
+[![@chirag4242](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)](https://www.github.com/chirag4242)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://cio-app.herokuapp.com/)
+[![Projects](https://img.shields.io/badge/Projects%20Site-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://sites.google.com/view/chiragpatil/home)
